@@ -287,7 +287,3 @@ getJobs("https://remotive.com/api/remote-jobs/categories").then((category) => {
     createOption(el.slug);
   });
 });
-
-function h() {
-  console.log("k");
-}
